@@ -53,7 +53,7 @@ GEM
       mojo_magick
       rqrcode
     rack (1.6.4)
-    rack-protection (1.5.3)
+    rack-protection (1.5.5)
       rack
     rainbow (2.1.0)
     ref (2.0.0)
