@@ -52,7 +52,7 @@ GEM
     qr4r (0.4.1)
       mojo_magick
       rqrcode
-    rack (1.6.4)
+    rack (1.6.12)
     rack-protection (1.5.3)
       rack
     rainbow (2.1.0)
