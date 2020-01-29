@@ -64,7 +64,7 @@ GEM
     rubydns (0.7.3)
       eventmachine (~> 1.0.0)
       rexec (~> 1.6.2)
-    rubyzip (1.2.0)
+    rubyzip (1.3.0)
     sinatra (1.4.7)
       rack (~> 1.5)
       rack-protection (~> 1.4)
